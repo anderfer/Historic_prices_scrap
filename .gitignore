@@ -2,8 +2,6 @@
 *.exe
 *.crx
 cookies/
-*.csv
 *.png
-data/csv
 data/SQL
 
