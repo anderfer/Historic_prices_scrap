@@ -4,5 +4,6 @@
 cookies/
 *.csv
 *.png
-
+data/csv
+data/SQL
 
