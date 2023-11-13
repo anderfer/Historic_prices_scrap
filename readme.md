@@ -23,6 +23,12 @@ Se necesita la instalación de una extension de crhome que proporciona histogram
 - Asignar un product ID a cada recolección.
 - Importar las tablas a SQL
 
+## PRIMERA ACTUALIZACION
+- Mejora del codio de extracción para adecuarse a las necesiadades de base de datos y visualización
+- Iniciado el codigo para recoger los datos de precio diarios sin necesidad de procesamiento de fotos
+- Carga de datos en MySQL Workbench
+- Creacion de un dashboard en Power BI
+
 ## RECURSOS UTILIZADOS
 
 Se utiliza Selenium para controlar un navegador web.
@@ -33,6 +39,9 @@ Se emplea la biblioteca pytesseract para realizar reconocimiento óptico de cara
 
 Se utiliza PyAutoGUI para realizar acciones automatizadas en el sistema operativo, como guardar imágenes o interactuar con archivos y ventanas.
 
+Se utiliza MySQL Workbench para alamacenar y consultar los datos extraidos.
+
+Se emplea Power BI para la creación de un dashboard de consulta interectiva de los datos de la extracción.
 
 
 
