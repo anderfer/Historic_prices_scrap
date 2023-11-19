@@ -12,22 +12,27 @@ Al iniciar este proyecto muy próximo a la fecha del black friday, la unica posi
 Se necesita la instalación de una extension de crhome que proporciona histogramas sobre precios. Al acceder a un producto concreto se despliega la extension sobre la web, pero la información no queda registrada en la web de la tienda.
 
 ## PRIMEROS PASOS
-- Acceder a la web mediante driver
-- Encontrar los enlaces a los productos de la pagina de ofertas del Black Friday
-- Acceder al producto y programar los clicks necesarios para llegar a la extension
-- Mediante movimiento de ratón recorrer el histograma completo
+- Acceder a la web mediante driver.
+- Encontrar los enlaces a los productos de la pagina de ofertas del Black Friday.
+- Acceder al producto y programar los clicks necesarios para llegar a la extensión.
+- Mediante movimiento de ratón recorrer el histograma completo.
 - Sacar un pantallazo de cada movimiento del ratón, que representan un dia cada uno.
 - Procesar el texto en la imagen.
 - Limpiar el dato de fecha del dato y precio del día.
 - Guardar cada producto en un csv distinto.
 - Asignar un product ID a cada recolección.
-- Importar las tablas a SQL
+- Importar las tablas a SQL.
 
 ## PRIMERA ACTUALIZACION
-- Mejora del codio de extracción para adecuarse a las necesiadades de base de datos y visualización
-- Iniciado el codigo para recoger los datos de precio diarios sin necesidad de procesamiento de fotos
-- Carga de datos en MySQL Workbench
-- Creacion de un dashboard en Power BI
+- Mejora del codio de extracción para adecuarse a las necesiadades de base de datos y visualización.
+- Iniciado el codigo para recoger los datos de precio diarios sin necesidad de procesamiento de fotos.
+- Carga de datos en MySQL Workbench.
+- Creacion de un dashboard en Power BI.
+
+## SEGUNDA ACTUALIZACION
+- Incluidas tabla Marcas, con los fabricantes de cada producto.
+- Añadidas dos pestañas al Dashboard de Power BI.
+- Incluidas nuevas columnas en la tablas extracciones.
 
 ## RECURSOS UTILIZADOS
 
