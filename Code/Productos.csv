@@ -3,21 +3,21 @@ product ID,Nombre,category ID,brand_id
 2,Lenovo IdeaPad 3 Gen 7,2,26
 3,Lenovo LOQ Gen 8,2,26
 4,Lenovo IdeaPad 3 Gen 6,2,26
-5,"Movil - Google Pixel 7a, 128 GB, 8 GB RAM",3,18
-6,"Tablet - Samsung Galaxy Tab A8, 64 GB",2,34
+5,Movil - Google Pixel 7a 128 GB 8 GB RAM,3,18
+6,Tablet - Samsung Galaxy Tab A8 64 GB,2,34
 7,PS5 Marvel's Spiderman 2,7,36
 8,Cámara deportiva - GoPro Hero 11 Black,12,19
 9,Cámara de vigilancia IP - Xiaomi Smart Camera C200,13,41
 10,Frigorífico combi - Balay 3KFD765BI Cristal,4,5
-11,"Samsung TV Neo QLED 65 - TQ65QN90CATXXC, UHD 4K",1,34
+11,Samsung TV Neo QLED 65 - TQ65QN90CATXXC UHD 4K,1,34
 12,Cafetera superautomática - Krups Roma EA81K870,5,24
 13,Moldeador - Cecotec Bamba CeramicCare AirGlam W,6,13
 14,Smartwatch - Amazfit GTS 4 Mini,8,2
 15,Patinete eléctrico - Smartgyro Rockway Pro C,9,35
 16,Barra de sonido - Samsung HW-Q930C/ZF,11,34
 17,Repetidor WiFi - TP-Link RE450 Doble Banda ,10,38
-18,"Movil - Xiaomi Redmi Note 12 Pro 5G, 256 GB",3,41
-19,"Portátil - Lenovo IdeaPad 1 15ALC7, 15.6 FullHD",2,26
+18,Movil - Xiaomi Redmi Note 12 Pro 5G 256 GB,3,41
+19,Portátil - Lenovo IdeaPad 1 15ALC7 15.6 FullHD,2,26
 20,PS5 Grand Theft Auto V,7,36
 21,Cámara EVIL - Canon EOS M50 Mark II 15-45,12,11
 22,Cámara de seguridad - Ezviz TY1 4MP,13,17
@@ -29,30 +29,30 @@ product ID,Nombre,category ID,brand_id
 28,Bicicleta eléctrica - Youin You Ride Texas,9,42
 29,Auriculares inalámbricos - Sony WH-CH720NB,11,36
 30,Disco duro SSD interno 1TB - WD_Black SN850,10,40
-31,"iPhone 14, Blanco estrella, 128 GB",3,3
-32,"All in one - 24-cb1005ns, 23.8 Full HD",2,22
+31,iPhone 14 Blanco estrella 128 GB,3,3
+32,All in one - 24-cb1005ns 23.8 Full HD,2,22
 33,Nintendo Switch Sonic Superstars,7,30
 34,Cámara Bridge - Panasonic Lumix FZ300,12,31
 35,Cámara de vigilancia IP - TP-Link Tapo C320WS,13,38
 36,Placa inducción - Balay 3EB967FRE,4,5
-37,"TV LED 50 - Xiaomi TV A2, UHD 4K",1,41
+37,TV LED 50 - Xiaomi TV A2 UHD 4K,1,41
 38,Aspirador escoba - Dyson v11aC/ Fluffy,5,16
 39,Afeitadora - Braun Series 5 51-R1200s,6,9
 40,Apple Watch Series 9 (2023),8,3
 41,Patinete eléctrico - Xiaomi Electric Scooter 4,9,41
 42,Altavoz de gran potencia - Vieta Pro Party 2,11,39
 43,Auriculares gaming - Razer Barracuda X,10,33
-44,"Movil - Samsung Galaxy S23 Ultra 5G, Botanic Green, 512GB, 12GB RAM",3,34
-45,"Portatil - VivoBook 15 F1500EA-EJ3587W,15.6 Full HD",2,4
-46,"Consola - Sony PlayStation 5 Standard, 1 mando, Chasis C + Call Of Duty: Modern Warfare 3",7,36
+44,Movil - Samsung Galaxy S23 Ultra 5G Botanic Green 512GB 12GB RAM,3,34
+45,Portatil - VivoBook 15 F1500EA-EJ3587W 15.6 Full HD,2,4
+46,Consola - Sony PlayStation 5 Standard 1 mando Chasis C + Call Of Duty: Modern Warfare 3,7,36
 47,Mini Drone - MINI 3 PRO (DJI RC),12,15
 48,Pack de 2 Echo Show 5 (3.Aa generación),13,2
-49,"Lavadora carga frontal - Bosch WGG254Z1ES, 10 Kg, 1400 rpm, Blanco",4,8
-50,"LG TV LED 55 - 55NANO756QC, UHD 4K",1,27
-51,"Freidora de aire - Moulinex Easy Fry & Grill XXL EZ801D, 6.5 L,",5,28
+49,Lavadora carga frontal - Bosch WGG254Z1ES 10 Kg 1400 rpm Blanco,4,8
+50,LG TV LED 55 - 55NANO756QC UHD 4K,1,27
+51,Freidora de aire - Moulinex Easy Fry & Grill XXL EZ801D 6.5 L,5,28
 52,Depiladora IPL - Philips Lumea S7000 BRI923/00,6,32
-53,"Smartwatch - Samsung Watch 4 BT, 40 mm, 1.2, Exynos W920, 16 GB, 240 mAh, IP68, Gold",8,34
-54,"Patinete eléctrico - Navee N65, Hasta 65 km, Doble freno, Luz delantera y trasera, Negro",9,29
+53,Smartwatch - Samsung Watch 4 BT 40 mm 1.2 Exynos W920 16 GB 240 mAh IP68 Gold,8,34
+54,Patinete eléctrico - Navee N65 Hasta 65 km Doble freno Luz delantera y trasera Negro,9,29
 55,AirPods Pro (2023 2a gen),11,3
 56,Reproductor multimedia - Chromecast con Google TV (4K),10,18
 57,Aspiradora con Bolsa BECKEN BVC3878 (69 dB - Bolsa de polvo 3 L),5,6
