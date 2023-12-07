@@ -1,8 +1,8 @@
 product ID,Nombre,category ID,brand_id
-1,Movil - OPPO Reno10 5G,2,43
-2,Movil - Samsung Galaxy A54 5G,2,34
-3,Movil - GALAXY S21 5G SAMSUNG,2,34
-4,Movil - OPPO A57s,2,43
+1,Movil - OPPO Reno10 5G,3,43
+2,Movil - Samsung Galaxy A54 5G,3,34
+3,Movil - GALAXY S21 5G SAMSUNG,3,34
+4,Movil - OPPO A57s,3,43
 5,Movil - Google Pixel 7a 128 GB 8 GB RAM,3,18
 6,Tablet - Samsung Galaxy Tab A8 64 GB,2,34
 7,PS5 Marvel's Spiderman 2,7,36
@@ -17,7 +17,7 @@ product ID,Nombre,category ID,brand_id
 16,Barra de sonido - Samsung HW-Q930C/ZF,11,34
 17,Repetidor WiFi - TP-Link RE450 Doble Banda,10,38
 18,Movil - Xiaomi Redmi Note 12S,3,41
-19,Movil - Xiaomi Redmi Note 9 Pro,2,41
+19,Movil - Xiaomi Redmi Note 9 Pro,3,41
 20,PS5 Grand Theft Auto V,7,36
 21,Camara EVIL - Canon EOS M50 Mark II 15-45,12,11
 22,Camara de seguridad - Ezviz TY1 4MP,13,17
@@ -30,7 +30,7 @@ product ID,Nombre,category ID,brand_id
 29,Auriculares inalambricos - Sony WH-CH720NB,11,36
 30,Disco duro externo 5 TB - WD_Black P10,10,40
 31,Movil - iPhone 14 Blanco estrella 128 GB,3,3
-32,Xiaomi Robot Vacuum S12,2,41
+32,Xiaomi Robot Vacuum S12,13,41
 33,Nintendo Switch Sonic Superstars,7,30
 34,Camara Bridge - Panasonic Lumix FZ300,12,31
 35,Camara de vigilancia IP - TP-Link Tapo C320WS,13,38
@@ -57,7 +57,7 @@ product ID,Nombre,category ID,brand_id
 56,Reproductor multimedia - Chromecast con Google TV (4K),10,18
 57,Aspiradora con Bolsa Rowenta Compact Power,5,44
 58,Lavavajillas BALAY 3VS506BP ,4,5
-59,Frigorifico combi - RB372N4ACE HISENSE,4,20
+59,Frigorifico combi - RB372N4ACE HISENSE20
 60,Placa de vitroceramica - 3EB764EN Balay,4,5
 61,Placa Flex de Induccion AEG ILB63445FB,4,1
 62,Lavadora LG Autodosificacion F4WV3509S3W,4,27
