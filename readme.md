@@ -4,7 +4,7 @@
 *Proyecto en progreso
 
 ## OBJETIVO
-El objetivo principal de este proyecto es tratar de aportar informacion real sobre los precios durante el Black Friday, poder comprobar o desmentir las ofertas ofrecidas por diferentes webs
+El objetivo principal de este proyecto es tratar de aportar informacion real sobre los precios durante el Black Friday, poder comprobar o desmentir las ofertas ofrecidas por diferentes webs e identificar los mejores días para realizar nuestras compras.
 
 ## INICIO DE PROYECTO
 Al iniciar este proyecto muy próximo a la fecha del black friday, la unica posibilidad era recoger datos historicos, estos datos historicos de precios no son da fácil acceso.
@@ -34,6 +34,19 @@ Se necesita la instalación de una extension de crhome que proporciona histogram
 - Añadidas dos pestañas al Dashboard de Power BI.
 - Incluidas nuevas columnas en la tablas extracciones.
 
+## TERCERA ACTUALIZACION
+- Reimportación de los datos con mejor formato y nuevas columnas para mejor análisis.
+- Inculidas tabla Eventos, con los días destacados.
+- Incluida tabla tiendas con los nombres de los ecommerce analizados.
+- Mejorado el Dashboarde de Power BI con nuevas estadisticas y nuevo diseño
+
+## SIGUIENTES PASOS
+- Recoleccion diaria de datos.
+- Ampliacion del rango temporal analizado.
+- Generar actualizaciones en directo de la base de datos.
+- Registro de nuevos productos a analizar mediante URL.
+- Creacion de web para consulta.
+
 ## RECURSOS UTILIZADOS
 
 Se utiliza Selenium para controlar un navegador web.
@@ -41,6 +54,8 @@ Se utiliza Selenium para controlar un navegador web.
 Se utiliza la biblioteca Pillow (PIL) para procesar las imágenes capturadas, como recortar, redimensionar y manipular la información visual.
 
 Se emplea la biblioteca pytesseract para realizar reconocimiento óptico de caracteres (OCR) en imágenes, extrayendo texto de las capturas de pantalla.
+
+Se cambia la biblioteca a easyocr para realizar reconocimiento óptico de caracteres (OCR) en imágenes, extrayendo texto de las capturas de pantalla.
 
 Se utiliza PyAutoGUI para realizar acciones automatizadas en el sistema operativo, como guardar imágenes o interactuar con archivos y ventanas.
 
